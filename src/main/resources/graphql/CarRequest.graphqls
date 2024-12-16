@@ -1,0 +1,7 @@
+
+input CarRequest {
+    model: String
+    matricule: String
+    color: String
+    price: Float
+}
